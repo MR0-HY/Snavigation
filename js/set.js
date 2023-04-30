@@ -114,12 +114,12 @@ var quick_list_preinstall = {
         url: "https://dash.cloudflare.com/",
     },
     '4': {
-        title: "W3school",
-        url: "https://www.w3school.com.cn/",
+        title: "Pikpak",
+        url: "https://mypikpak.com/",
     },
     '5': {
-        title: "腾讯云",
-        url: "https://console.cloud.tencent.com/",
+        title: "果核剥壳",
+        url: "https://www.ghxi.com/",
     },
     '6': {
         title: "阿里云",
@@ -134,16 +134,16 @@ var quick_list_preinstall = {
         url: "https://www.aliyundrive.com/drive/",
     },
     '9': {
-        title: "Office",
-        url: "https://www.office.com/",
+        title: "Yinfans",
+        url: "https://www.yinfans.me/",
     },
     '10': {
-        title: "又拍云",
-        url: "https://console.upyun.com/",
+        title: "MuseTransfer",
+        url: "https://musetransfer.com/",
     },
     '11': {
-        title: "CSDN",
-        url: "https://www.csdn.net/",
+        title: "MSDN",
+        url: "https://next.itellyou.cn/",
     },
     '12': {
         title: "哔哩哔哩",
